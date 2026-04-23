@@ -6,6 +6,6 @@ AZ-104: Azure Administrator Associate
 
 AZ-305: Azure Solutions Architect Expert
 
-SC-100: Microsoft Cybersecurity Architect
+SC-100: Microsoft Cybersecurity Architect Expert
 
 MS-102: Microsoft 365 Administrator Expert
